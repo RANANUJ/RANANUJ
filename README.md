@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rananuj&label=Profile%20views&color=0e75b6&style=flat" alt="rananuj" /> </p>
 
-- 🌱 I’m currently learning **Web dev,AI**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **software engineering**
 
-- 💬 Ask me about **web dev, bug hunt!**
+- 💬 Ask me about **Mobile development**
 
 - 📫 How to reach me **rana1452005@gmail.com**
 
