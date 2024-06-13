@@ -4,18 +4,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rananuj&label=Profile%20views&color=0e75b6&style=flat" alt="rananuj" /> </p>
 
-- 🌱 I’m currently learning **Web dev,AI**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **software engineering**
 
-- 💬 Ask me about **web dev, bug hunt!**
+- 💬 Ask me about **Mobile development**
 
 - 📫 How to reach me **rana1452005@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/@anuj145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@anuj145" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anuj rana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuj rana" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anujrana12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuj rana" height="30" width="40" /></a>
 <a href="https://instagram.com/anuj_rana_205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anuj_rana_205" height="30" width="40" /></a>
 </p>
 
