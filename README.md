@@ -1,5 +1,5 @@
 <!-- <h1 align="center"> Hey there! I'm Balram Rathore <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/></h1> -->
-
+<img src="https://github.com/DevStack06/images/blob/master/My%20Video.gif" alt="side Image" align="center" width="1000" height="auto" />
 <h1 align="center">Hi 👋, I'm Anuj Rana</h1>
 <h3 align="center">A passionate Software engineer from INDIA </h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
