@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on **software engineering**
+- 👯 I’m looking to collaborate on **Mobile Development**
 
 - 💬 Ask me about **Mobile development**
 
