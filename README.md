@@ -1,5 +1,5 @@
  <h1 align="center"> Hey there! I'm Anuj Rana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/></h1>
-<h3 align="center">A passionate Software engineer from INDIA </h3>
+<h3 align="center">A passionate Mobile Developer from INDIA </h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rananuj&label=Profile%20views&color=0e75b6&style=flat" alt="rananuj" /> </p>
